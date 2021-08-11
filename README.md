@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rogermds
+- 👋 Hi, I’m @rogermds
 - 👀 I’m interested in learning about everything
 - 🌱 I’m currently learning about full stack dev
 - 💞️ I’m looking to collaborate on all I can help
