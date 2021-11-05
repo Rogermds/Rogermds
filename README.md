@@ -13,7 +13,7 @@
   <img align="center" alt="Rogerio-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="Rogerio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rogerio-Cucumber" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
-  <img align="right" alt="Rogerio-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/86385568?v=4">
+  <img align="right" alt="Rogerio-pic" height="150" style="border-radius:50px;" src="https://photo.princesapop.com/br/1/248/moy/198358.jpg">
 </div>
   
   ##
