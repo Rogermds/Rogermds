@@ -1,4 +1,4 @@
-## Welcome! My name is Rogério and I'm a developer in Node.js and Quality Assurance student!
+## Hello world! My name is Rogério and I'm a Node.js developer and QA student!
 <div align="center">
   <a href="https://github.com/rogermds">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=rogermds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
